@@ -221,10 +221,11 @@ section h2 {
   justify-content: space-between;
   align-items: center;
   margin: 50px 0 30px;
+  flex-wrap: wrap;
 }
 
 .details-top img {
-  width: 400px;
+  width: 280px;
   height: 100%;
   margin-right: 60px;
   object-fit: cover;
