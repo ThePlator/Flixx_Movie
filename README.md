@@ -13,3 +13,9 @@ Just clone or download and then register for a free API key at https://www.themo
 Once you get your key, just add it to the `api.apiKey` value in the global state at the top.
 
 **Note:** If we are using this as a production project, we should not store this in the client. we can create a proxy server and store your key there.
+
+## Author
+
+- Linkedin - [Sameer](https://www.linkedin.com/in/sameer-pce/)
+
+- Github - [@ThePlator](hhttps://github.com/ThePlator)
